@@ -3,3 +3,8 @@
 
 #include "cmd_general.h"
 
+void test(void)
+{
+	return;
+}
+
